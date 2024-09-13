@@ -1,0 +1,9 @@
+type: module
+nickname: subscription
+
+client_package_path: ../serverpod_subscription_client
+
+
+modules:
+  serverpod_auth:
+    nickname: auth

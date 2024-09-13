@@ -1,0 +1,19 @@
+{
+  "moduleName": "serverpod_subscription_example",
+  "tables": [],
+  "installedModules": [
+    {
+      "module": "serverpod",
+      "version": "20240516151843329"
+    },
+    {
+      "module": "serverpod_auth",
+      "version": "20240520102713718"
+    },
+    {
+      "module": "serverpod_subscription_example",
+      "version": "20240907182029410"
+    }
+  ],
+  "migrationApiVersion": 1
+}

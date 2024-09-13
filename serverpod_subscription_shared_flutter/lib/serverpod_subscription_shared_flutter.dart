@@ -1,0 +1,1 @@
+library serverpod_subscription_shared_flutter;

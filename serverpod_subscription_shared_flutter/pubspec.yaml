@@ -1,0 +1,16 @@
+name: serverpod_subscription_shared_flutter
+description: Shared widgets for Flutter side subscriptions with Serverpod.
+version: 2.1.1
+repository: https://github.com/serverpod/serverpod
+homepage: https://serverpod.dev
+issue_tracker: https://github.com/serverpod/serverpod/issues
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: '>=3.19.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  serverpod_client: 2.1.1
+  serverpod_auth_client: 2.1.1

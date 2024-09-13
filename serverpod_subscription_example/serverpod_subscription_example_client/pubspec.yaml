@@ -1,0 +1,11 @@
+name: serverpod_subscription_example_client
+description: Starting point for a Serverpod client.
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  serverpod_client: 2.1.1
+  serverpod_auth_client: 2.1.1
+  serverpod_subscription_client:
+    path: ../../serverpod_subscription_client

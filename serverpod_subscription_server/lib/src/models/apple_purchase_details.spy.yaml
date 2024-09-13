@@ -1,0 +1,13 @@
+
+
+class: AppPurchaseDetails
+
+fields:
+  purchaseID: String?
+  productID: String
+  localVerificationData: String
+  serverVerificationData: String
+  source: String
+  transactionDate: String?
+
+  

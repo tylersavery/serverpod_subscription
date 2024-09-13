@@ -1,0 +1,5 @@
+enum: AppSubscriptionProvider
+values:
+ - apple
+ - google
+ - stripe

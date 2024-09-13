@@ -1,0 +1,8 @@
+class: AppSubscription
+table: app_subscription
+
+fields:
+    userInfo: module:auth:UserInfo?, relation
+    expiresAt: DateTime
+    provider: AppSubscriptionProvider
+    productId: String
